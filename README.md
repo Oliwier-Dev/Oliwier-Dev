@@ -12,6 +12,11 @@ Live: https://oliwier-dev.github.io/Ai-chat-like-FAQ-assistant/ Code: https://gi
 
 This is an AI chat-like FAQ-assistant, where you can ask a question and the algorithm will search for any match in keywords and show that answer.
 
+---
+## All of my projects
+If you would like to see all of my best projects:
+Best projects: https://github.com/Oliwier-Dev/Front-end-projects/tree/main
+
 🛠 Tech Stack
 HTML, CSS, JavaScript
 
