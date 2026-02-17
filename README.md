@@ -1,6 +1,11 @@
 Oliwier — Developer
 I build fast, modern landing pages and portfolio websites for founders and personal brands.
 
+# My portfolio
+Live: https://portfolio-oliwier.vercel.app/
+code: https://github.com/Oliwier-Dev/Portfolio-Oliwier
+
+
 🔥 Featured Projects
 1. Restaurant Landing Page
 Live: https://vellaro-website-demo.netlify.app/home Code: https://github.com/Oliwier-Dev/restaurant-website-demo
