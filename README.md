@@ -1,12 +1,5 @@
 Oliwier — Developer
-I build fast, modern landing pages and portfolio websites for founders and personal brands.
-
-# My portfolio
-Live: https://oliwier-mako.vercel.app/
-code: https://github.com/Oliwier-Dev/Portfolio-Oliwier
-
-
----
+I build fast, modern landing pages and portfolio websites.
 
 # Featured Projects 🔥
 1. Restaurant Landing Page
@@ -27,5 +20,3 @@ Best projects: https://github.com/Oliwier-Dev/Front-end-projects/tree/main
 🛠 Tech Stack
 HTML, CSS, JavaScript
 
-📩 Contact
-Email: tadekradek3@outlook.com X: https://x.com/OliwierMako (I respond faster on X)
